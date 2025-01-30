@@ -1,0 +1,29 @@
+title: testingmodelDL
+x-stoplight:
+  id: gdrdywb9evojv
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 4bf1y0s7z4wyw
+  name:
+    type: string
+    x-stoplight:
+      id: flv4w820p4g3m
+  contact:
+    type: string
+    x-stoplight:
+      id: 3den1fhx0hqm3
+  address:
+    type: string
+    x-stoplight:
+      id: vpi3cmskyss54
+  PhNo:
+    type: string
+    x-stoplight:
+      id: m00skpw7upa4f
+  Lime:
+    type: string
+    x-stoplight:
+      id: vac1ibzscr3nm
